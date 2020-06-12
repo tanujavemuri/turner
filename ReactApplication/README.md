@@ -1,4 +1,4 @@
-# eshop-ui-react
+# Turner-ui-react
 
 Download and run the application by following these steps: 
 
